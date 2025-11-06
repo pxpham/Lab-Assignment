@@ -24,5 +24,10 @@ public class Main {
             // TODO C1: Print "File not found!" if grades.txt is missing
             System.out.println("File not found!");
         }
+
+        void printGreeting() {
+            System.out.println("Hi Phuong :D");
+        }
+        printGreeting();
     }
 }
